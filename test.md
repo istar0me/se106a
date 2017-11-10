@@ -6,3 +6,10 @@ This is on a separate line
 ```math
 a^2+b^2=c^2
 ```
+
+```math
+\begin{matrix}
+   a & b \\
+   c & d
+\end{matrix}
+```
