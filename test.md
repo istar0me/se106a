@@ -7,9 +7,4 @@ This is on a separate line
 a^2+b^2=c^2
 ```
 
-```math
-\begin{matrix}
-   a & b \\
-   c & d
-\end{matrix}
-```
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
